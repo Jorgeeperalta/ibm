@@ -9,3 +9,5 @@ plt.plot(x, y)
 #prueba 
 
 #no grafica
+
+# commit desde comandos
