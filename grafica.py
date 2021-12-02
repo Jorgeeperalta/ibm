@@ -6,4 +6,6 @@ y = np.sin(x)
 
 plt.plot(x, y)
 
-#prueba
+#prueba 
+
+#no grafica
